@@ -3,7 +3,7 @@ pipeline {
     stages {
          stage('test message') {
             steps {
-                echo ''
+                echo 'Hello DevOps'
             }
         }
     }   
