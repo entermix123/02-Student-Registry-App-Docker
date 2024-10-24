@@ -30,4 +30,5 @@ pipeline {
                 echo 'Deploy to production'
             }
         }
+    }
 }
